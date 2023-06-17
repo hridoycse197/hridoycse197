@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Abdul Kader Hridoy
 #### Mobile Application Developer
-![Mobile Application Developer](https://www.facebook.com/story.php?story_fbid=pfbid02DQKN9zD8ZZbGEBerNHTmUYvPMwnpNE3uu2ufYRh9NDKBVW6eK18My7QUsSkxemvAl&id=100003485310021&mibextid=Nif5oz)
-
 👋 Hello, I'm Abdul Kader, a passionate Flutter developer specializing in Android and iOS app development. With a strong background in mobile application development, I strive to create elegant and efficient solutions that provide a seamless user experience.
 
 💻 I have been working in the software development industry for two years, and I have gained extensive experience in developing cross-platform mobile applications using Flutter framework. I am proficient in utilizing Flutter's rich widget ecosystem and its powerful set of tools to build robust and visually appealing mobile apps.
@@ -22,8 +20,4 @@ Skills: Flutter / Java / Getx / Sqflite / hive
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/www.github.com/hridoycse197)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/abdul-kader-707176186/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/www.facebook.com/mdabdulkader.hridoy)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=www.github.com/hridoycse197)  
-
-![GitHub metrics](https://metrics.lecoq.io/www.github.com/hridoycse197)  
 
